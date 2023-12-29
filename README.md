@@ -37,7 +37,7 @@ Feel free to explore each blog post for more in-depth content. Happy reading! �
 ## 📫 Get in Touch
 
 - 📧 Email: saketsbjit@gmail.com
-- 💬 LinkedIn: [Follow me on LinkedIn](https://www.linkedin.com/in/saketsingh126/)
+- 💬 LinkedIn: [Follow me on LinkedIn](https://www.linkedin.com/in/saketpsingh/)
 - &nbsp;&nbsp;**X**&nbsp;&nbsp;Twitter: [Follow me on Twitter or X](https://twitter.com/Saketsingh14942)
 
 ## 📊 GitHub Stats
