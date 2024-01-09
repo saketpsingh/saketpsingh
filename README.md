@@ -32,6 +32,10 @@ Troubleshooting image update issues in Sitecore can prove to be a complex task, 
 
 The PowerShell file import script was working correctly on the local project instance, but it failed to work when deployed to other higher environments and with this approach, it allows us to get around the PowerShell file import issue and gives the user the ability to choose which exact file needs to be imported.
 
+### [6. Add Configuration for Non-Docker Desktop](https://blogs.perficient.com/2023/12/27/add-configuration-for-non-docker-desktop/)
+
+Configuring applications outside of Docker desktop environments needs to be done carefully. For seamless integration, we must know how to add the required configurations.
+
 Feel free to explore each blog post for more in-depth content. Happy reading! 🚀
 
 ## 📫 Get in Touch
