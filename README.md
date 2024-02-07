@@ -16,7 +16,6 @@ Welcome to my blog! Below are some of my recent blog posts:
 - > Extending General Link for Content Editor - https://blogs.perficient.com/2024/02/07/extending-general-link-for-content-editor-mode/
 - > Extending General Link for Experience Editor - https://blogs.perficient.com/2024/02/07/extending-general-link-for-experience-editor-mode/
 - > **Upcoming** - Resolve Extending General Link for Experience Editor for higher environment : **_Coming Soon_**
-<br/>
 
 ### 2] Sitecore + Docker - Blogs
 - > Troubleshooting Docker Container Problems - https://blogs.perficient.com/2023/04/25/troubleshooting-docker-container-problems/
@@ -24,7 +23,7 @@ Welcome to my blog! Below are some of my recent blog posts:
 - > Migrating Docker Compose from V1 to V2 Code Details - https://blogs.perficient.com/2023/07/03/migrating-docker-compose-from-v1-to-v2-code-details/
 - > Troubleshooting Sitecore Image Update Issue - https://blogs.perficient.com/2023/11/15/troubleshooting-sitecore-image-update-issue/
 - > Add Configuration for Non-Docker Desktop - https://blogs.perficient.com/2023/12/27/add-configuration-for-non-docker-desktop/
-<br/>
+
 
 ### 3] PowerShell Scripts - Blogs
 - > Bypassing the PowerShell File Import Issue - https://blogs.perficient.com/2023/12/05/bypassing-the-powershell-file-import-issue/
