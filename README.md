@@ -16,6 +16,7 @@ Welcome to my blog! Below are some of my recent blog posts:
 - > Extending General Link for Content Editor - https://blogs.perficient.com/2024/02/07/extending-general-link-for-content-editor-mode/
 - > Extending General Link for Experience Editor - https://blogs.perficient.com/2024/02/07/extending-general-link-for-experience-editor-mode/
 - > **Upcoming** - Resolve Extending General Link for Experience Editor for higher environment : **_Coming Soon_**
+- > **Upcoming** - Alternate Approach of Extending General Link for Experience Editor : **_Coming Soon_**
 
 ### 2] Sitecore + Docker - Blogs
 - > Troubleshooting Docker Container Problems - https://blogs.perficient.com/2023/04/25/troubleshooting-docker-container-problems/
