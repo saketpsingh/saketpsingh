@@ -7,6 +7,8 @@ I'm a software developer passionate about learning and exploring new things. Wel
 - 💼 Currently working as Senior Technical Consultant at Perficient.
 - 🎓 Graduated in Computer Science from S.B.Jain Institue of Technology Management and Research, Nagpur, Maharashtra.
 - 💻 I enjoy working with Sitecore, SXA and Sitecore Headless websites. and I'm always eager to learn new things.
+- ✍️ **My Contributions on Perficient Blog** - https://blogs.perficient.com/author/saketsingh/
+- 👨🏽‍💻 **Sitecore Stack exchange** - https://sitecore.stackexchange.com/users/13616/saket-singh
 
 ## 📝 My Blogs
 
