@@ -1,4 +1,4 @@
-![image](https://github.com/singh-saket/singh-saket/assets/150345873/a7fe7e58-f4b0-4a26-9d6b-f6a4cbebf919)# 👋 Hello, I'm Saket Singh
+👋 Hello, I'm Saket Singh
 
 I'm a software developer passionate about learning and exploring new things. Welcome to my GitHub profile! 🚀
 
