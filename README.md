@@ -34,11 +34,11 @@
 
 Welcome to my blog! Below, you'll find some of my latest articles. Stay tuned for more insightful posts coming your way!
 
-### 🌐**From Personal Blog**
+### 🛰️ **From Personal Blog**
 
 - **_Coming Soon_** – Stay tuned for new content!
 
-### 🌐**From Perficient Blogs**
+### 🛰️ **From Perficient Blogs**
 
 #### 🔹 1. Sitecore Blogs
 
