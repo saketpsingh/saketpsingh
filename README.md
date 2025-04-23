@@ -99,7 +99,7 @@ Welcome to my blog! Below, you'll find some of my latest articles. Stay tuned fo
 ## 📫 Get in Touch
 
 I'm always open to collaborating on interesting projects. If you have an idea or want to work together, feel free to reach out!
-- 📧 Email: saketsbjit@gmail.com
+- 📧 Email: codingwithsaket@gmail.com
 - 💬 LinkedIn: [Follow me on LinkedIn](https://www.linkedin.com/in/saketpsingh/)
 - &nbsp;&nbsp;**X**&nbsp;&nbsp;Twitter: [Follow me on Twitter or X](https://twitter.com/Saketsingh14942)
 
