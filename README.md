@@ -25,7 +25,7 @@
 - **Search & Serialization:** Solr Search, Unicorn Serialization
 - **Database:** MSSQL (Query Optimization & Design)
 - **DevOps & Tools:** Docker, Azure DevOps, Git, Jira, Tortoise SVN
-- **Practices:** Agile, Test-Driven Development (TDD), Sprint Planning
+- **Practices:** Agile, Prototype, Test-Driven Development (TDD), Sprint Planning
 - **Others:** SEO, Web Performance, Accessibility, Clean Architecture, Optimization Strategies, Cross-Team Collaboration
 
 ---
