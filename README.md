@@ -11,17 +11,17 @@
 
 💻 I’m a passionate software developer focused on building impactful, high-performance, and scalable web applications.<br/>
 🧠 I enjoy working with modern technologies, focusing on clean architecture, efficient code, and smart development practices.<br/>
-🚀 Currently focusing on advanced **Sitecore**, **SXA**, and **Headless CMS** projects to enhance my expertise.<br/>
+🚀 Currently focusing on advanced **Sitecore**, **SXA**, **Headless CMS** and **XM Cloud** projects to enhance my expertise.<br/>
 🌱 Always learning - currently exploring Sitecore XM Cloud, Next.js, and cloud-native architectures.
 
 ---
 
 ## ⚙️ Tech Stack
 
+- **CMS:** Sitecore (9.3, 10.1, 10.2) with SXA, Headless, XM Cloud
+- **Backend:** ASP.NET, ASP.NET MVC, ASP.NET Core, Web API, Entity Framework, Helix Architecture
+- **Frontend**: jQuery, React(basic)
 - **Languages:** C#, HTML5, SCSS, JavaScript, LINQ
-- **Frontend**: jQuery, React
-- **Backend:** ASP.NET, ASP.NET MVC, ASP.NET Core, Web API, Entity Framework
-- **CMS:** Sitecore (9.3, 10.1, 10.2) with SXA, Helix Architecture
 - **Search & Serialization:** Solr Search, Unicorn Serialization
 - **Database:** MSSQL (Query Optimization & Design)
 - **DevOps & Tools:** Docker, Azure DevOps, Git, Jira, Tortoise SVN
