@@ -89,9 +89,9 @@ Welcome to my blog! Below, you'll find some of my latest articles. Stay tuned fo
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=singh-saket&show_icons=true&hide=issues" alt="My GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=singh-saket&layout=compact" alt="Top Languages" />
-  <img src="https://streak-stats.demolab.com?user=singh-saket" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=saketpsingh&show_icons=true&hide=issues" alt="My GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saketpsingh&layout=compact" alt="Top Languages" />
+  <img src="https://streak-stats.demolab.com?user=saketpsingh" alt="GitHub Streak" />
 </div>
 
 ---
