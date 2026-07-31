@@ -36,7 +36,7 @@ Welcome to my blog! Below, you'll find some of my latest articles. Stay tuned fo
 
 ### 🛰️ **From Personal Blog**
 
-- **_Coming Soon_** – Stay tuned for new content!
+- [From My Personal Blog](https://codewithsaket.com/blogs)
 
 ### 🛰️ **From Perficient Blogs**
 
